@@ -1,0 +1,36 @@
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+</head>
+<body>
+<p><b><h1>Jeneetta James</b></h1></p>
+<p>jeneettajames@gmail.com</p>
+<p>8943049375</p>
+<br>
+<br>
+<a href="#c1">Skills</a><br>
+<a href="#c2">Education Qualification</a><br>
+<a href="#c3">Project</a>
+<br>
+<br>
+<br>
+<h1 id="c1">Skills</h1>
+<h3>HTML,CSS,PYTHON(Django)</h3>
+<br>
+<br>
+<br>
+<h1 id="c2">Eduaction Qualification</h1>
+<h3>MCA - St.Joseph's College of Engineering and Technology Palai</h3>
+<h3>BCA - St.George's College Aruvithura</h3>
+<h3>HSS - St.Mary's HSS Kidangoor</h3>
+<h3>10th -St.Mary's GHSS Palai</h3>
+<br>
+<br>
+<br>
+<h1 id="c3">Project</h1>
+<h3>Trave Agency Management System(VB 6.0)</h3>
+<h3>Art Cafe(php)</h3>
+<h3>Dream Home(python(Django))</h3>
+</body>
+</html>
+
